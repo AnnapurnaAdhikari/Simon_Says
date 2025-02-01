@@ -3,7 +3,7 @@
 SimonSays is a fun and interactive memory game where players must repeat a randomly generated sequence of colors and sounds. Inspired by the classic **Simon Game**, this version is built with HTML, CSS, and JavaScript.  
 
 ## Live Demo  
-🔗 [Play SimonSays](#) *(Add your live link here)*  
+🔗 [Play SimonSays](#) *(https://annapurnaadhikari.github.io/Simon_Says/)*  
 
 ## Features  
  - **Classic Simon Game Mechanics** – Repeat the sequence to advance  
