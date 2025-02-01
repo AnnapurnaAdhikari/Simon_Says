@@ -6,11 +6,11 @@ SimonSays is a fun and interactive memory game where players must repeat a rando
 🔗 [Play SimonSays](#) *(Add your live link here)*  
 
 ## Features  
- **Classic Simon Game Mechanics** – Repeat the sequence to advance  
- **Interactive Sound & Color Feedback** – Each button plays a unique sound  
- **Increasing Difficulty** – The sequence gets longer with each round  
- **User-Friendly UI** – Simple and responsive design  
- **High Score Tracking** – Keep track of your best performance  
+ - **Classic Simon Game Mechanics** – Repeat the sequence to advance  
+ - **Interactive Sound & Color Feedback** – Each button plays a unique sound  
+ - **Increasing Difficulty** – The sequence gets longer with each round  
+ - **User-Friendly UI** – Simple and responsive design  
+ - **High Score Tracking** – Keep track of your best performance  
 
 ## Technologies Used  
 - **HTML5** – Structure of the game  
