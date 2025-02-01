@@ -1,5 +1,5 @@
 body{
-    background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/nasty_fabric.png);
+    background-image: url(https://i.pinimg.com/736x/3f/60/55/3f605576839cb6e48bf7033b218b0319.jpg);
 }
 
 .toggle{
@@ -162,3 +162,6 @@ body{
     -webkit-box-sizing: border-box;
   }
   
+
+  /* # for id
+    . for class */
