@@ -24,5 +24,3 @@
 ```bash
 git clone https://github.com/AnnapurnaAdhikari/Simon_Says.git
 cd simonsays
-pip install -r requirements.txt
-python main.py
